@@ -14,9 +14,11 @@ Third-Party Services and Frameworks
 
 String Note Tutor is built using the following third-party services and frameworks, which do not collect personal information:
 
-    Flutter: The UI toolkit used to build the app, developed by Google. It compiles applications for mobile, web, and desktop from a single codebase. Flutter itself does not collect personal data from users.
-    audioplayers: A package used to play audio files within the app. It does not collect or store any user data.
-    CocoaPods: A dependency manager used to integrate third-party libraries in iOS projects. While CocoaPods itself does not collect personal data, it manages the inclusion of libraries used by the app. None of the libraries used by String Note Tutor collect personal data.
+ Flutter: The UI toolkit used to build the app, developed by Google. It compiles applications for mobile, web, and  desktop from a single codebase. Flutter itself does not collect personal data from users.
+
+ audioplayers: A package used to play audio files within the app. It does not collect or store any user data.
+
+ CocoaPods: A dependency manager used to integrate third-party libraries in iOS projects. While CocoaPods itself    does not collect personal data, it manages the inclusion of libraries used by the app. None of the libraries used  by String Note Tutor collect personal data.
 
 In-App Purchases and Payments
 
