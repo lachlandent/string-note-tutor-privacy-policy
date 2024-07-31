@@ -26,6 +26,7 @@ String Note Tutor is a paid app, but it does not contain any in-app purchases. A
 Children’s Privacy
 
 Protecting the privacy of children is especially important to us. String Note Tutor complies with the Children’s Online Privacy Protection Act (COPPA) and other applicable regulations. The app does not collect any personal information from children under the age of 13.
+
 Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
@@ -34,6 +35,7 @@ Email: lach2004-2@yahoo.com
 Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. If we make any changes, we will notify you by updating the effective date at the top of this policy. String Note Tutor will never collect personal information. We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting your information.
+
 Conclusion
 
 Your privacy is important to us. By using String Note Tutor, you agree to the terms outlined in this Privacy Policy. Thank you for trusting us with your music learning journey.
